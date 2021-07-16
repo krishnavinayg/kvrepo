@@ -8,6 +8,9 @@ public:
 };
 
 void insert()
+{
+
+}
 
 int main()
 {
