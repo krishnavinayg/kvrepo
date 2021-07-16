@@ -7,7 +7,7 @@ public:
 	Node* next;
 };
 
-
+void insert()
 
 int main()
 {
